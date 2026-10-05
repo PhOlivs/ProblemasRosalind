@@ -15,7 +15,7 @@ def count_nucleotides(sequence: str) -> tuple[int, int, int, int]:
 
 
 def main() -> None:
-    input_file = Path(__file__).with_name("counting_dna_nucleotides.txt")
+    input_file = Path(__file__).with_name("rosalind_dna.txt")
     sequence = input_file.read_text().strip()
 
     counts = count_nucleotides(sequence)
