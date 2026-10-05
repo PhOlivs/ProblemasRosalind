@@ -15,12 +15,15 @@ O projeto tem como objetivo desenvolver, de forma progressiva, conhecimentos de 
 - Praticar boas práticas de organização e documentação
 - Construir um histórico de aprendizado e projetos para portfólio
 
-## Problemas
+## Problemas Volume 1: String Algorithms
 
-| Problema                                                                    | Categoria           | Linguagem | Status    |
-| --------------------------------------------------------------------------- | ------------------- | --------- | --------- |
-| [Counting DNA Nucleotides](./Counting%20DNA%20Nucleotides/)                 | Sequências de DNA   | Python    | Concluído |
-| [Rosalind — Transcribing DNA into RNA](https://rosalind.info/problems/rna/) | Transcrições de DNA | Python    | Concluído |
+Um algoritmo que envolve a manipulação e propriedades de strings de símbolos.
+
+| Problema                                                                         | Categoria                  | Linguagem | Status    |
+| -------------------------------------------------------------------------------- | -------------------------- | --------- | --------- |
+| [Counting DNA Nucleotides](./Counting%20DNA%20Nucleotides/)                      | Sequências de DNA          | Python    | Concluído |
+| [Rosalind — Transcribing DNA into RNA](https://rosalind.info/problems/rna/)      | Transcrições de DNA        | Python    | Concluído |
+| [Rosalind — Complementing a Strand of DNA](https://rosalind.info/problems/revc/) | Complemento Reverso de DNA | Python    | Concluído |
 
 A lista será atualizada conforme novos problemas forem resolvidos.
 

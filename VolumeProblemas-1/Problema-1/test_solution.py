@@ -1,4 +1,4 @@
-from solution import count_nucleotides
+from VolumeProblemas1.Counting_DNA_Nucleotides.solution import count_nucleotides
 
 
 def test_count_nucleotides():
