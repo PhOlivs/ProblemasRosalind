@@ -17,9 +17,10 @@ O projeto tem como objetivo desenvolver, de forma progressiva, conhecimentos de 
 
 ## Problemas
 
-| Problema                                                    | Categoria         | Linguagem | Status    |
-| ----------------------------------------------------------- | ----------------- | --------- | --------- |
-| [Counting DNA Nucleotides](./Counting%20DNA%20Nucleotides/) | Sequências de DNA | Python    | Concluído |
+| Problema                                                                    | Categoria           | Linguagem | Status    |
+| --------------------------------------------------------------------------- | ------------------- | --------- | --------- |
+| [Counting DNA Nucleotides](./Counting%20DNA%20Nucleotides/)                 | Sequências de DNA   | Python    | Concluído |
+| [Rosalind — Transcribing DNA into RNA](https://rosalind.info/problems/rna/) | Transcrições de DNA | Python    | Concluído |
 
 A lista será atualizada conforme novos problemas forem resolvidos.
 
